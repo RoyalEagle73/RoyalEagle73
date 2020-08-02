@@ -14,6 +14,13 @@ I am a Final Year Computer Application (MCA) Student at National Institute of Te
 
 [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/github.png" alt="github logo" width="34">](https://github.com/Royaleagle73)  [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/dev.png" alt="dev logo" width="24">](https://dev.to/Royaleagle73)  [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/twitter.png" alt="twitter logo" width="34">](https://twitter.com/P_K_M_K_B)  [<img src="https://github.com/Amchuz/Amchuz/blob/master/linkedin.jpeg" alt="linkedin logo" width="24">](https://www.linkedin.com/in/deepakchauhan878)  [<img src="https://github.com/Amchuz/Amchuz/blob/master/gmail.jpeg" alt="gmail logo" width="24">](2018PGCACA63@nitjsr.ac.in)
 
+---
+#### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> I'm currently working on
+[![OverHeat Notifier](https://github-readme-stats.vercel.app/api/pin/?username=royaleagle73&repo=Overheat-Notifier)](https://github.com/RoyalEagle73/Overheat-Notifier)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=royaleagle73&repo=NIT-JSR-Result-Leecher)](https://github.com/RoyalEagle73/NIT-JSR-Result-Leecher)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=royaleagle73&repo=FiveRudimentsOfPython)](https://github.com/RoyalEagle73/FiveRudimentsOfPython)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=royaleagle73&repo=Google-Translator-Bot-Telegram)](https://github.com/RoyalEagle73/Google-Translator-Bot-Telegram)
+
 ----
 
 #### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> How about some weekly stats ?
