@@ -1,6 +1,6 @@
   ![](https://komarev.com/ghpvc/?username=your-github-username&color=blue&style=flat-square&label=PROFILE+VIEWS)
 
-### 👋 Hello World !  <img src="https://github.com/RoyalEagle73/RoyalEagle73/blob/master/coding-freak.gif" width="24px">
+### 👋 Hello World !  <img src="https://raw.githubusercontent.com/RoyalEagle73/RoyalEagle73/master/coding-freak.gif">
   
 :heart: Programming | :black_heart: Hip-Hop | :blue_heart: Eminem
   
