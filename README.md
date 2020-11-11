@@ -23,7 +23,7 @@ I am a Final Year Computer Application (MCA) Student at National Institute of Te
 #### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> I'm currently working on
 [![](https://github-readme-stats.vercel.app/api/pin/?username=royaleagle73&repo=ad-free-reddit)](https://github.com/RoyalEagle73/ad-free-reddit)
 [![](https://github-readme-stats.vercel.app/api/pin/?username=royaleagle73&repo=Overheat-Notifier)](https://github.com/RoyalEagle73/Overheat-Notifier)
-[![](https://github-readme-stats.vercel.app/api/pin/?username=royaleagle73&repo=NIT-JSR-Result-Leecher)](https://github.com/RoyalEagle73/NIT-JSR-Result-Leecher)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=royaleagle73&repo=FollowIt-for-Reddit)](https://github.com/RoyalEagle73/FollowIt-for-Reddit)
 [![](https://github-readme-stats.vercel.app/api/pin/?username=royaleagle73&repo=Google-Translator-Bot-Telegram)](https://github.com/RoyalEagle73/Google-Translator-Bot-Telegram)
 
 ----
